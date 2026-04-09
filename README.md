@@ -1,5 +1,7 @@
 # Commander Mode — Skill for OpenClaw
 
+🌍 Languages: English | [简体中文](README.zh.md)
+
 > **Solve the "AI silence" problem:** When you give a complex task, the AI goes silent for minutes before responding. Commander Mode fixes this.
 
 **Production verified.** Not an official OpenClaw feature — a community practice born from real production pain.
